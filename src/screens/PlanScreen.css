@@ -1,0 +1,21 @@
+.planScreen__plan{
+    display: flex;
+    justify-content: space-between;
+}
+
+.planScreen__button{
+    display: flex;
+    flex-direction: column;   
+}
+
+.planScreen__button > button {
+    margin: 20px;
+    padding: 10px 20px;
+    color: #fff;
+    background-color:#e50914;
+    border: none;
+}
+
+.planScreen__net{
+    padding: 20px;
+}
